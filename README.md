@@ -1,2 +1,5 @@
-# Samples
-Samples of test documents I created.
+## Samples
+
+These are some test artifacts created during my studying.
+
+
